@@ -1,10 +1,10 @@
 - 👋 Hi, I’m George
 
-- 🌱 I’m currently learning Javascript, React, C# and .Net.
+- 🌱 I’m currently working with Javascript, React, C# and .Net.
 
 - 💞️ 
 
-- 📫 How to reach me ...
+- 📫 How to reach me ... gmanningdev@gmail.com
 
 <!---
 gmanninglive/gmanninglive is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
